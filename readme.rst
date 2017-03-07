@@ -12,6 +12,13 @@ Installation
 - configure "aplication/config/database.php" 
 - please make sure create .htaccess file
 
+*****
+Login
+*****
+email : admin@example.com
+password : admin
+
+
 *******
 License
 *******
